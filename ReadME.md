@@ -16,7 +16,8 @@ This repo contains all code written for the `The Analysis of Serve Decisions in 
 
 `data`
 --------------
-* Processed tracking data from Roland Garros
+* Processed tracking data from Roland Garros along with scraped data of player heights
+* Unfortunately, the data is not included.
 
 `eda`
 ------

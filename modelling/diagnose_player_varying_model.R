@@ -1,6 +1,7 @@
 ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ###
 ### ==    SCRIPT FITTING STAN BAYESIAN MODELS W/ CMDSTAN           =====
 ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ###
+
 # A reviewer requested we fit player-varying covariates along with 
 # player-varying intercepts...
 # This is an exploratory script, first seeing whether such a model would have an improved model fit.
