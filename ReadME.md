@@ -3,11 +3,6 @@
 This repo contains all code written for the `The Analysis of Serve Decisions in Tennis using Bayesian Hierarchical Models` paper.
 
 
-Some starting notes: 
-* The Bayesian models were applied only on Roland Garros tracking data. 
-* The scraped tracking data (from RG's Court Vision feature) was saved in early December 2020. 
-* For possible data privacy reasons, the scraped data is not included in this repo.
-
 `modelling`
 -----------
 * `fit_all_stan_models.R`
@@ -36,10 +31,6 @@ Some starting notes:
 
  * `/plots/`
    * All model result plots.
-
-`data`
---------------
-* The tracking data is not included (July 31st, 2021).
 
 `eda`
 ------
