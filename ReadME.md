@@ -2,12 +2,9 @@
 
 This repo contains all code written for the `The Analysis of Serve Decisions in Tennis using Bayesian Hierarchical Models` paper.
 
-Tennis court dimensions are labelled in metres. For convenience, here's a plot.
-
-![alt text](tennis_court.jpg)
 
 Some starting notes: 
-* For the paper, bayesian models were applied only on Roland Garros tracking data. However similar tracking data from the Australian Open is available too.
+* The Bayesian models were applied only on Roland Garros tracking data. 
 * The scraped tracking data (from RG's Court Vision feature) was saved in early December 2020. 
 * For possible data privacy reasons, the scraped data is not included in this repo.
 
@@ -42,7 +39,6 @@ Some starting notes:
 
 `data`
 --------------
-* Processed tracking data from Roland Garros along with scraped data of player handedness and height.
 * The tracking data is not included (July 31st, 2021).
 
 `eda`
@@ -68,6 +64,6 @@ Some starting notes:
 
 `src`
 -----
-* Contains some functions that I repeatedly use throughout the project
+* Contains some functions that we repeatedly use throughout the project
 
 

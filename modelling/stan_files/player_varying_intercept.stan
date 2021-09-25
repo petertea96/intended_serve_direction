@@ -3,7 +3,7 @@ data{
     int N; // Sample size
     int num_players; // Number of players
     int y[N]; // Response Variable
-    int player_id[N]; // ID column of 1st cluster variable
+    int player_id[N]; // Player ID column
     int K; // No. of response group categories
 }
 parameters{

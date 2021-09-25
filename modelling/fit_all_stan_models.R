@@ -153,7 +153,7 @@ saveRDS(atp_fit_varying_intercept,
 atp_fit_expanded <- sampling(expanded, 
                              data = atp_expanded_datalist, 
                              iter = 2000)
-saveRDS(atp_fit_atp_model3, file = "./modelling/saved_models/stan_loglik/atp_expanded_fit.RDS")
+saveRDS(atp_fit_expanded, file = "./modelling/saved_models/stan_loglik/atp_expanded_fit.RDS")
 
 # || --- || --- || --- || --- || --- || --- || --- || --- || 
 # -- Player varying intercept and (one) slope -----
